@@ -10,6 +10,8 @@
     ===========================================================================
      Requirements: 
      - Can be run on any machine
+     - Permissions: Device.ReadWrite.All (Application)
+     - Permissions: BitLockerKey.Read.All (Application)
     ===========================================================================
     .DESCRIPTION
     This scripts uses Graph to find stale devices older than what you specify, and deletes them.
