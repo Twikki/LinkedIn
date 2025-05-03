@@ -5,7 +5,7 @@
      Created on:   	16-04-2025
 	 Created by:   	Daniel Jean Schmidt
 	 Organization: 	
-     Filename:     	CleanupStaleDevicesEntra.ps1
+     Filename:     	CleanupStaleDevicesEntraSaveInStorageAcc.ps1
 	===========================================================================
     ===========================================================================
      Requirements: 
